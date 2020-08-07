@@ -1,4 +1,4 @@
-title: Raghunandan M. Rao
+title: Raghu's Webpage
 description: Research Website
 sourcecode: "https://github.com/raghumrao/raghumrao.github.io/"
 
@@ -8,14 +8,16 @@ exclude: ["Makefile", "README.md"]
 url: "https://raghumr.github.io"     # the base hostname & protocol for your site
 baseurl: "/"                   # the subpath of your site, e.g. /blog
 
-author:
+author: Raghunandan M. Rao
     name:
     facebook:
-    scholar:
+    scholar: "https://scholar.google.com/citations?user=yrj1MFQAAAAJ&hl=en"
+    email: raghumr@vt.edu
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
+math_engine: mathjax
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
