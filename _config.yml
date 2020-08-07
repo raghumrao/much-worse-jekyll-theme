@@ -11,7 +11,7 @@ baseurl: "/"                   # the subpath of your site, e.g. /blog
 author: Raghunandan M. Rao
     name:
     facebook:
-    scholar: "https://scholar.google.com/citations?user=yrj1MFQAAAAJ&hl=en"
+    scholar: 
     email: raghumr@vt.edu
 
 # Build settings
