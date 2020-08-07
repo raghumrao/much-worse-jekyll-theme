@@ -38,7 +38,7 @@ permalink: /publications/
 
 [C1] V. Marojevic, D. Chheda, **R. M. Rao**, R. Nealy, J. Park and J. H. Reed, "Software-Defined LTE Evolution Testbed Enabling Rapid Prototyping and Controlled Experimentation," *in Proc. IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1-6, San Francisco, CA, 2017. <a href="https://ieeexplore.ieee.org/abstract/document/7925757">(IEEEXplore)</a>
 
-Theses and Dissertations
+## Theses and Dissertations
 1. **R. M. Rao**, "Enhancing Performance of Next-Generation Vehicular and Spectrum Sharing Wireless Networks: Practical Algorithms and Fundamental Limits," *Ph.D. Dissertation, Virginia Tech*, 2020. 
 2. **R. M. Rao**, "Perspectives of Jamming, Mitigation and Pattern Adaptation ofOFDM Pilot Signals for the Evolution of Wireless Networks," *M.S. Thesis, Virginia Tech*, 2016. <a href="https://vtechworks.lib.vt.edu/bitstream/handle/10919/77485/etd-09282016-174924_Rao_RM_T_2016.pdf?sequence=1&isAllowed=y">(PDF)</a>  
 3. **R. M. Rao**, "P-Type Schottky Waveguide Photodiodes," *M.Tech. Thesis, Indian Institute of Technology Kanpur*, 2013. 
