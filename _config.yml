@@ -1,23 +1,22 @@
-title: Raghu's Webpage
-description: Research Website
-sourcecode: "https://github.com/raghumrao/raghumrao.github.io/"
+
+title: Geeky corner
+description: Much-Worse Jekyll theme for academic page and blog
+sourcecode: "https://github.com/gchauras/much-worse-jekyll-theme"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
 
-url: "https://raghumr.github.io"     # the base hostname & protocol for your site
-baseurl: "/"                   # the subpath of your site, e.g. /blog
+url: "http://gchauras.github.io"     # the base hostname & protocol for your site
+baseurl: "/much-worse-jekyll-theme"                   # the subpath of your site, e.g. /blog
 
-author: Raghunandan M. Rao
+author:
     name:
     facebook:
-    scholar: 
-    email: raghumr@vt.edu
+    scholar:
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-math_engine: mathjax
 
 # Settings for analytics helper
 # Set 'provider' to the analytics provider you want to use.
