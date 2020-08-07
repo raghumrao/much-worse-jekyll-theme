@@ -10,7 +10,7 @@ $vsmall-font-size: 0.66em;
 $base-line-height: 1.5;
 $spacing-unit:     1.5em;
 
-$grey-slight:#ff4;
+$grey-slight:#f8f8f8;
 $grey-vlight:#eee;
 $grey-light: #ccc;
 $grey:       #888;
@@ -32,10 +32,10 @@ $header-hover-url:  $url-color;
 $line-color:        $grey-light;
 
 // Width of the content area
-$content-width:    50em;
+$content-width:    60em;
 $content-min-width:15em;
 $mobile:           32em;
-$desktop:          50em;
+$desktop:          60em;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
