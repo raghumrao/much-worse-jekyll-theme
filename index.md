@@ -10,11 +10,11 @@ I recently graduated with a Ph.D. in [Electrical Engineering](https://ece.vt.edu
 
 ## Current Research Interests
 1. Spectrum sharing
-2. Cellular PHY layer security
+2. PHY layer security
 3. Vehicular and UAV communications
-4. Localization
+4. Beyond-5G Cellular Systems
 
 ## Contact
 
 Raghunandan M. Rao <br />
-[e-mail](mailto:raghumr@vt.edu)/[Google Scholar](https://scholar.google.com/citations?user=yrj1MFQAAAAJ&hl=en)/[LinkedIn](https://www.linkedin.com/in/raghunandanmrao)<br />
+[e-mail](mailto:raghumr@vt.edu)/[Google Scholar](https://scholar.google.com/citations?user=yrj1MFQAAAAJ&hl=en)/[LinkedIn](https://www.linkedin.com/in/raghunandanmrao)/[Resume](https://drive.google.com/file/d/1DPppAE6fMaibdACZYgVLnOhhkP3RLcUN/view?usp=sharing)/[Full CV](https://drive.google.com/file/d/12IHutzOkomvQMut46Xbq_aZ8ZowvYnQZ/view?usp=sharing)<br />
