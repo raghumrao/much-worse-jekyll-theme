@@ -26,4 +26,4 @@ Vehicular and UAV channels are known to be highly nonstationary [1], with differ
 ### References
 1. L. Bernado, T. Zemen, F. Tufvesson, A. F. Molisch, and C. F. Mecklenbrauker, "Delay and Doppler Spreads of Nonstationary Vehicular Channels for Safety-Relevant Scenarios," *IEEE Transactions on Vehicular Technology*, vol. 63, no. 1, pp. 82–93, Jan 2014.
 2. **R. M. Rao**, V. Marojevic, and J. H. Reed, "Adaptive Pilot Patterns for CA-OFDM Systems in Nonstationary Wireless Channels," *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1231–1244, Feb 2018.
-3. R. M. Rao, V. Marojevic, and J. Reed, "Rate-Maximizing OFDM Pilot Patterns for UAV Communications in Nonstationary A2G Channels," *in Proc. IEEE Vehicular Technology Conference (VTC-Fall2018)*, pp. 1-5, August 2018.
+3. **R. M. Rao**, V. Marojevic, and J. Reed, "Rate-Maximizing OFDM Pilot Patterns for UAV Communications in Nonstationary A2G Channels," *in Proc. IEEE Vehicular Technology Conference (VTC-Fall2018)*, pp. 1-5, August 2018.
