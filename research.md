@@ -4,7 +4,7 @@ title: Research
 permalink: /research/ 
 ---
 ## 4G/5G PHY Layer Security
-{% include image.html url="/images/Jamming_attacks_efficacy.png" caption="" width="278" height="371" align="right" %}  
+{% include image.html url="/images/Jamming_attacks_efficacy.png" caption="" width="306" height="408" align="right" %}  
 The overarching contribution of this research was the qualitative, quantitative, and empirical investigation of the resiliency of critical control channels of 4G [1] and 5G [2] networks to intentional and unintentional RF interference. A key outcome was the analysis and mitigation of reference signal/pilot and non-pilot interference (PI/NPI) [3], [4], [5]. Prior to this research, it was a widely held notion that pilot signals must always be protected from interference [6], [7]. While this is true for demodulation reference signals, my work in [5] demonstrated *for the first time* that this is not always the case. Specifically, it showed that PI is desirable for cellular systems employing link adaptation based on pilot-aided channel state information (CSI) estimates and limited feedback. It also showed that ultra-low latency communications are vulnerable to NPI, and advocated the use of hybrid CSI estimation methods (methods that use pilot-aided as well as blind estimates) for robust link adaptation.
 
 ### References
