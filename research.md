@@ -36,7 +36,7 @@ The use of massive MIMO technologies were introduced in LTE-Advanced Pro (3GPP R
 1. **R. M. Rao**, D. Bethanabhotla, and R. C. Palat, “Enhancing Throughput Using Agile Beam Switching and User Scheduling in Cellular Systems,” *in Proc. IEEE 90th Vehicular Technology Conference (VTC2019-Fall)*, pp. 1-7, 2019.
 
 ### Pulsed Radar-Cellular Coexistence
-{% include image.html url="/images/Pilot_adapt_V2V_UAV_illustrate.png" caption="" width="376" height="248" align="right" %}
+{% include image.html url="/images/Fig_TVT_Act_vs_pilaid_SINR_frep_320.png" caption="" width="418" height="372" align="right" %}
 Unlike conventional cellular systems, intermittent pulsed radar interference in shared spectrum results in two channel states: (a) *'fading channel (FC) state'* in the absence of radar, and (b) *'interference channel (IC) state'* in the presence of radar, as shown in the figure. In [1], I demonstrated that limited CSI feedback schemes based on pilot-aided estimates fail to estimate the IC's CSI, rendering the cellular system vulnerable to link adaptation failure. I resolved this in [2], where I proposed a comprehensive semi-blind SINR estimation framework using pilot-aided estimates and a robust max-min heuristic to compute the wideband SINR of radar-impaired subframes. To handle channel bimodality, I proposed (a) *dual CSI feedback*, where all users report their quantized CSI for both channel states, and (b) *radar indicator feedback*, where a single user per cell feeds back quantized information about future radar-impaired subframes. Unifying these schemes resulted in huge simultaneous improvements in the downlink throughput, BLER, and latency.
 
 #### References
