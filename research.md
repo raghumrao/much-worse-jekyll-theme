@@ -42,3 +42,14 @@ Unlike conventional cellular systems, intermittent pulsed radar interference in 
 #### References
 1. **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, vol. 24, no. 8, pp. 1678-1682, 2020.
 2. **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 1-1, 2020.
+ 
+## Mathematical Modeling and Performance Analysis of Underlay Spectrum Sharing Scenarios
+{% include image.html url="/images/Fig1_Radar_mMIMO_SpecShare_Illustration.png" caption="" width="380" height="257" align="right" %}
+Tractable mathematical modeling of large spectrum sharing networks can yield fundamental insights into macro-scale performance trends, which are hard to obtain using sophisticated protocol-oriented system-level simulation studies. In [1],[2], I developed a tractable stochastic geometry-based framework to analyze performance of underlay radar-massive MIMO cellular spectrum sharing scenarios. Major novelties of this work was the modeling of 3D beamforming capabilities of the radar and the BSs, which uncovered the relationship between the cell-size and worst-case BS transmit beamforming gain. The analytical framework presented in this work (a) enables network designers to systematically isolate and evaluate the impact of each deployment parameter on the worst-case radar performance, and (b) complements industry-standard simulation methodologies, by establishing a baseline performance for each  set of deployment parameters.
+	
+In [3], we proposed a mathematical framework to harmonize spectral efficiency and coverage performance in underlay spectrum sharing scenarios between 3D UAV and D2D networks, using tools from stochastic geometry and machine learning. A major novelty was the flexibility of this framework to incorporate arbitrary distributions of UAVs in 3D space.
+
+#### References
+1. **R. M. Rao**, H. S. Dhillon, V. Marojevic, J. H. Reed, "Analysis of Worst-Case Interference in Underlay Radar-Massive MIMO Spectrum Sharing Scenarios," *in Proc. IEEE Global Communications Conference (Globecom)*, pp. 1-6, Waikoloa, HI, 2019.
+2. **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *submitted, available arxiv:2008.02100*.
+3. B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, vol. 68, no. 9, pp. 1-1, 2020.
