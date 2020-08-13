@@ -20,7 +20,7 @@ The overarching contribution of this research was the qualitative, quantitative,
 There are diverse use-cases in 5G and beyond-5G networks, each with potentially different channel conditions. Therefore to improve performance, it makes sense to customize the link adaptation scheme to meet the performance requirements of the use-case under consideration. In this contribution, I developed new link adaptation frameworks for the following scenarios.
 
 ### Vehicular and UAV Communications
-{% include image.html url="/images/Fig_TVT_Act_vs_pilaid_SINR_frep_320.png" caption="" width="418" height="372" align="right" %}  
+{% include image.html url="/images/Pilot_adapt_V2V_UAV_illustrate.png" caption="" width="376" height="248" align="right" %}  
 Vehicular and UAV channels are known to be highly nonstationary [1], with different fading characteristics when compared to conventional cellular fading channels. To leverage this, I designed a rate-maximizing PHY layer adaptation protocol illustrated here, where the pilot overhead is dynamically adapted along the time axis as a function of the coherence time of the channel, and along the frequency axis as a function of the coherence bandwidth of the channel [2], [3]. Furthermore, I designed 'channel statistics codebooks' to quantize the fading conditions, and facilitate real-time waveform adaptation using limited CSI feedback schemes, to yield significant rate enhancements when compared to fixed pilot configurations.
 
 #### References
