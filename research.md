@@ -20,7 +20,7 @@ The overarching contribution of this research was the qualitative, quantitative,
 There are diverse use-cases in 5G and beyond-5G networks, each with potentially different channel conditions. Therefore to improve performance, it makes sense to customize the link adaptation scheme to meet the performance requirements of the use-case under consideration. In this contribution, I developed new link adaptation frameworks for the following scenarios.
 
 ### Vehicular and UAV Communications
-{% include image.html url="/images/Pilot_adapt_V2V_UAV_illustrate.png" caption="" width="376" height="248" align="right" %}  
+{% include image.html url="/images/Fig_TVT_Act_vs_pilaid_SINR_frep_320.png" caption="" width="418" height="372" align="right" %}  
 Vehicular and UAV channels are known to be highly nonstationary [1], with different fading characteristics when compared to conventional cellular fading channels. To leverage this, I designed a rate-maximizing PHY layer adaptation protocol illustrated here, where the pilot overhead is dynamically adapted along the time axis as a function of the coherence time of the channel, and along the frequency axis as a function of the coherence bandwidth of the channel [2], [3]. Furthermore, I designed 'channel statistics codebooks' to quantize the fading conditions, and facilitate real-time waveform adaptation using limited CSI feedback schemes, to yield significant rate enhancements when compared to fixed pilot configurations.
 
 #### References
@@ -34,3 +34,11 @@ The use of massive MIMO technologies were introduced in LTE-Advanced Pro (3GPP R
 
 #### References
 1. **R. M. Rao**, D. Bethanabhotla, and R. C. Palat, “Enhancing Throughput Using Agile Beam Switching and User Scheduling in Cellular Systems,” *in Proc. IEEE 90th Vehicular Technology Conference (VTC2019-Fall)*, pp. 1-7, 2019.
+
+### Pulsed Radar-Cellular Coexistence
+{% include image.html url="/images/Pilot_adapt_V2V_UAV_illustrate.png" caption="" width="376" height="248" align="right" %}
+Unlike conventional cellular systems, intermittent pulsed radar interference in shared spectrum results in two channel states: (a) *'fading channel (FC) state'* in the absence of radar, and (b) *'interference channel (IC) state'* in the presence of radar, as shown in the figure. In [1], I demonstrated that limited CSI feedback schemes based on pilot-aided estimates fail to estimate the IC's CSI, rendering the cellular system vulnerable to link adaptation failure. I resolved this in [2], where I proposed a comprehensive semi-blind SINR estimation framework using pilot-aided estimates and a robust max-min heuristic to compute the wideband SINR of radar-impaired subframes. To handle channel bimodality, I proposed (a) *dual CSI feedback*, where all users report their quantized CSI for both channel states, and (b) *radar indicator feedback*, where a single user per cell feeds back quantized information about future radar-impaired subframes. Unifying these schemes resulted in huge simultaneous improvements in the downlink throughput, BLER, and latency.
+
+#### References
+1. **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, vol. 24, no. 8, pp. 1678-1682, 2020.
+2. **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 1-1, 2020.
