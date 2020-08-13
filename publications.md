@@ -9,11 +9,11 @@ permalink: /publications/
 [Pr1] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *submitted*. <a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>
 
 ### Published
-[J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
+[J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 1-1, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
 
-[J3] B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, 2020. <a href="https://ieeexplore.ieee.org/document/9102315">(IEEEXplore)</a>
+[J3] B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, vol. 68, no. 9, pp. 1-1, 2020. <a href="https://ieeexplore.ieee.org/document/9102315">(IEEEXplore)</a>
 
-[J2] **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, 2020. <a href="https://ieeexplore.ieee.org/document/9082626">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2005.00122.pdf">(arXiv)</a>
+[J2] **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, vol. 24, no. 8, pp. 1678-1682, 2020. <a href="https://ieeexplore.ieee.org/document/9082626">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2005.00122.pdf">(arXiv)</a>
 
 [J1] **R. M. Rao**, V. Marojevic and J. H. Reed, "Adaptive Pilot Patterns for CA-OFDM Systems in Nonstationary Wireless Channels," *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1231-1244, Feb. 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8031997">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1709.03176">(arXiv)</a>
 
