@@ -17,7 +17,7 @@ permalink: /publications/
 
 [J1] **R. M. Rao**, V. Marojevic and J. H. Reed, "Adaptive Pilot Patterns for CA-OFDM Systems in Nonstationary Wireless Channels," *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1231-1244, Feb. 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8031997">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1709.03176">(arXiv)</a>
 
-[M1] M. Lichtman, R. P. Jover, M. Labib, **R. M. Rao**, V. Marojevic and J. H. Reed, "LTE/LTE-A Jamming, Spoofing, and Sniffing: Threat Assessment and Mitigation," *IEEE Communications Magazine*, vol. 54, no. 4, pp. 54-61, April 2016. <a href="https://ieeexplore.ieee.org/abstract/document/7452266">(IEEEXplore)</a><a href="http://rogerpiquerasjover.net/LTE_Jamming_Magazine_Paper_final.pdf">(download PDF)</a>
+[M1] M. Lichtman, R. P. Jover, M. Labib, **R. M. Rao**, V. Marojevic and J. H. Reed, "LTE/LTE-A Jamming, Spoofing, and Sniffing: Threat Assessment and Mitigation," *IEEE Communications Magazine*, vol. 54, no. 4, pp. 54-61, April 2016. <a href="https://ieeexplore.ieee.org/abstract/document/7452266">(IEEEXplore)</a><a href="http://rogerpiquerasjover.net/LTE_Jamming_Magazine_Paper_final.pdf">(PDF)</a>
 
 ## Conference Papers
 [C9] **R. M. Rao**, H. S. Dhillon, V. Marojevic, J. H. Reed, "Analysis of Worst-Case Interference in Underlay Radar-Massive MIMO Spectrum Sharing Scenarios," *in Proc. IEEE Global Communications Conference (Globecom)*, pp. 1-6, Waikoloa, HI, 2019. <a href="https://ieeexplore.ieee.org/document/9013615">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1907.09536.pdf">(arXiv)</a>
@@ -39,11 +39,11 @@ permalink: /publications/
 [C1] V. Marojevic, D. Chheda, **R. M. Rao**, R. Nealy, J. Park and J. H. Reed, "Software-Defined LTE Evolution Testbed Enabling Rapid Prototyping and Controlled Experimentation," *in Proc. IEEE Wireless Communications and Networking Conference (WCNC)*, pp. 1-6, San Francisco, CA, 2017. <a href="https://ieeexplore.ieee.org/abstract/document/7925757">(IEEEXplore)</a>
 
 ## Theses
-[D1] **R. M. Rao**, "Enhancing Performance of Next-Generation Vehicular and Spectrum Sharing Wireless Networks: Practical Algorithms and Fundamental Limits," *Ph.D. Dissertation, Virginia Tech*, 2020. 
+[D1] **R. M. Rao**, "Enhancing Performance of Next-Generation Vehicular and Spectrum Sharing Wireless Networks: Practical Algorithms and Fundamental Limits," *Ph.D. Dissertation, Virginia Tech*, 2020. <a href="https://vtechworks.lib.vt.edu/bitstream/handle/10919/99796/Rao_RM_D_2020.pdf?sequence=1&isAllowed=y">(PDF)</a>
 
 [T2] **R. M. Rao**, "Perspectives of Jamming, Mitigation and Pattern Adaptation of OFDM Pilot Signals for the Evolution of Wireless Networks," *M.S. Thesis, Virginia Tech*, 2016. <a href="https://vtechworks.lib.vt.edu/bitstream/handle/10919/77485/etd-09282016-174924_Rao_RM_T_2016.pdf?sequence=1&isAllowed=y">(PDF)</a>  
  
 [T1] **R. M. Rao**, "P-Type Schottky Waveguide Photodiodes," *M.Tech. Thesis, Indian Institute of Technology Kanpur*, 2013. 
 
 ## Patents
-[P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent App. No. 16/600428, 2020. <a href="https://patentimages.storage.googleapis.com/22/12/c9/1e3b9dc99dca79/US20200119790A1.pdf">(pdf)</a>
+[P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent App. No. 16/600428, 2020. <a href="https://patentimages.storage.googleapis.com/22/12/c9/1e3b9dc99dca79/US20200119790A1.pdf">(PDF)</a>
