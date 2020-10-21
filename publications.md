@@ -9,7 +9,7 @@ permalink: /publications/
 [Pr1] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *submitted*. <a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>
 
 ### Published
-[J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 1-1, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
+[J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
 
 [J3] B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, vol. 68, no. 9, pp. 5375-5389, 2020. <a href="https://ieeexplore.ieee.org/document/9102315">(IEEEXplore)</a>
 
