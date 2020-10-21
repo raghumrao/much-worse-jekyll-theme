@@ -41,7 +41,7 @@ Unlike conventional cellular systems, intermittent pulsed radar interference in 
 
 #### References
 1. **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, vol. 24, no. 8, pp. 1678-1682, 2020.
-2. **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 1-1, 2020.
+2. **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020.
  
 ## Mathematical Modeling and Performance Analysis of Underlay Spectrum Sharing Scenarios
 {% include image.html url="/images/Fig1_Radar_mMIMO_SpecShare_Illustration.png" caption="" width="380" height="257" align="right" %}
