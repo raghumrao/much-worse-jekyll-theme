@@ -18,6 +18,9 @@ Rashtreeya Vidyalaya College of Engineering, Bangalore, Karnataka, India
 Bachelor of Engineering, Telecommunication Engineering <I><span style="float: right;">Fall 2007 - Spring 2011</span></I>   
 
 ## Professional Experience
+Samsung Research America (SRA), Plano, TX, USA  
+Senior Research Enginner, Standards Mobility and Innovation (SMI) Lab <I><span style="float: right;">October 2020 - present</span></I>  
+
 [Virginia Tech](https://vt.edu/), Blacksburg, VA, USA  
 Graduate Research Assistant, [Wireless@VT](https://wireless.vt.edu/) <I><span style="float: right;">Summer 2015 - Summer 2020</span></I>  
 
