@@ -7,7 +7,7 @@ permalink: /publications/
 ## Journal Papers and Magazine Articles
 ### Under Review/Preprints
 [Pr1] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *Under Major Revision*. <a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
-[U1] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," Under Review.
+[U1] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *Under Review*.
 
 ### Published
 [J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
