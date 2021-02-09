@@ -3,6 +3,9 @@ layout: page
 title: Professional Service
 permalink: /service/
 ---
+## Editorial Board
+1. *Editor, IEEE Transactions on Vehicular Technology* 
+
 ## TPC Member  
 1. *IEEE International Conference on Communications (ICC) 2018-1st IEEE Workshop on 5G Wireless Security (5G-Security)*
 2. *11th International Conference on Ambient Systems, Networks and Technologies 2020*
