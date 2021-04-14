@@ -49,4 +49,4 @@ permalink: /publications/
 ## Patents
 [P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent App. No. 16/600428, 2020. <a href="https://patentimages.storage.googleapis.com/22/12/c9/1e3b9dc99dca79/US20200119790A1.pdf">(PDF)</a>
 
-[P2] A. V. Padaki, B. L. Ng, C. Saha, R. M. Rao, Y. Yang, M. Kang,"Method and apparatus for localization," US Patent App. No. 16/998929, 2020. <a href="https://patentimages.storage.googleapis.com/9b/f4/5b/a3b9056b7f2a7d/US20210058744A1.pdf">(PDF)</a>
+[P2] A. V. Padaki, B. L. Ng, C. Saha, **R. M. Rao**, Y. Yang, M. Kang,"Method and apparatus for localization," US Patent App. No. 16/998929, 2020. <a href="https://patentimages.storage.googleapis.com/9b/f4/5b/a3b9056b7f2a7d/US20210058744A1.pdf">(PDF)</a>
