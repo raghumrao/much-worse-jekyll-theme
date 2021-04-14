@@ -7,7 +7,7 @@ permalink: /publications/
 ## Journal Papers and Magazine Articles
 ### Under Review/Preprints
 [Pr1] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *Under Major Revision*. <a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
-[U1] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *Accepted with Minor Revision, IEEE Transactions on Vehicular Technology*.
+[U1] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *Accepted with Minor Revisions in the IEEE Transactions on Vehicular Technology*.
 
 ### Published
 [J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
@@ -48,3 +48,5 @@ permalink: /publications/
 
 ## Patents
 [P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent App. No. 16/600428, 2020. <a href="https://patentimages.storage.googleapis.com/22/12/c9/1e3b9dc99dca79/US20200119790A1.pdf">(PDF)</a>
+
+[P2] A. V. Padaki, B. L. Ng, C. Saha, R. M. Rao, Y. Yang, M. Kang,"Method and apparatus for localization," US Patent App. No. 16/998929, 2020. <a href="https://patentimages.storage.googleapis.com/9b/f4/5b/a3b9056b7f2a7d/US20210058744A1.pdf">(PDF)</a>
