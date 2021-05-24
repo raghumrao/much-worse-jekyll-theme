@@ -51,5 +51,5 @@ In [3], we proposed a mathematical framework to harmonize spectral efficiency an
 
 #### References
 1. **R. M. Rao**, H. S. Dhillon, V. Marojevic, J. H. Reed, "Analysis of Worst-Case Interference in Underlay Radar-Massive MIMO Spectrum Sharing Scenarios," *in Proc. IEEE Global Communications Conference (Globecom)*, pp. 1-6, Waikoloa, HI, 2019.
-2. **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *under major revision, available arxiv:2008.02100*.
+2. **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *to appear in the IEEE Transactions on Wireless Communications, available arxiv:2008.02100*.
 3. B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, vol. 68, no. 9, pp. 5375-5389, 2020.
