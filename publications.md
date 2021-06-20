@@ -7,7 +7,7 @@ permalink: /publications/
 ## Journal Papers and Magazine Articles
 ### Published
 
-[J6] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *to appear in IEEE Transactions on Wireless Communications*. <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
+[J6] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *IEEE Transactions on Wireless Communications*, doi: 10.1109/TWC.2021.3081458, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
 
 [J5] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *Accepted with Minor Revisions in IEEE Transactions on Vehicular Technology*.
 
